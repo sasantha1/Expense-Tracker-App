@@ -1,4 +1,4 @@
-# MERN Stack Expense Tracker App
+#Expense Tracker App
 
 A full-stack expense tracking application built with MongoDB, Express.js, React, and Node.js. Track your income and expenses, visualize data with charts, generate monthly reports, and export data to CSV.
 
@@ -266,8 +266,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email sasanthasanju1111@gmail.com or create an issue in the repository.
 
----
 
-Made with ❤️ using the MERN Stack
